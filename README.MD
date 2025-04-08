@@ -71,3 +71,14 @@ Here's a look at what's ahead for Maximum Studios:
 ---
 
 We're actively working to improve our infrastructure to deliver **faster, more stable, and smarter systems** for our users.
+
+Nice touch! Here's a cleaner and markdown-friendly version of that section you can drop into your `README.md` for a little extra personality and fun:
+
+---
+
+## 😄 Some Programming Humor for You  
+<img src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif" width="40" align="center" />
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
+
+---
