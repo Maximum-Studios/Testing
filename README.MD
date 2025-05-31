@@ -71,9 +71,6 @@ Here's a look at what's ahead for Maximum Studios:
 ---
 
 We're actively working to improve our infrastructure to deliver **faster, more stable, and smarter systems** for our users.
-
-Nice touch! Here's a cleaner and markdown-friendly version of that section you can drop into your `README.md` for a little extra personality and fun:
-
 ---
 
 ## 😄 Some Programming Humor for You  
